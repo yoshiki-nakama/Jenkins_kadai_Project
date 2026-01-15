@@ -23,7 +23,5 @@ int main() {
 	result_div = div(10, 5);
 	printf("%d\n", result_div);
 
-	printf("Auto Build Test by Jenkins\n");
-
 	return 0;
 }
