@@ -23,6 +23,6 @@ int main() {
 	result_div = div(10, 5);
 	printf("%d\n", result_div);
 
-	printf("オートビルドテスト\n");
+	printf("Auto Build Test\n");
 	return 0;
 }
